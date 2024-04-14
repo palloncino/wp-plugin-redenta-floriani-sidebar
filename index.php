@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Sidebar Buttons
-Description: Provides clickable sidebar buttons through a shortcode.
+Plugin Name: Strigno Sidebar (Buttons Menu)
+Description: Provides clickable sidebar buttons through a shortcode, shortcode: [strigno_sidebar].
 Version: 1.0
 Author: Antonio Guiotto
 */
@@ -52,22 +52,6 @@ function sidebar_buttons_shortcode()
                         </div>
                     </div>
                 </div>
-                <div class="side-button-outer amministrazione-aperta" onclick="window.location.href=\'/amministrazione-aperta\'">
-                    <div class="side-button-inner">
-                        <div class="side-button-icon">
-                            <div class="animate-svg"><img src="http://apsppieve.chebellagiornata.it/wp-content/uploads/2024/03/MANINA.svg" alt="Cursor Icon"></div>
-                        </div>
-                        <div class="side-button-text">
-                            <div class="side-button-text-text-container">
-                                <div class="side-button-text-text-first">Amministrazione</div>
-                                <div class="side-button-text-text-second">Aperta</div>
-                            </div>
-                            <div class="side-button-text-icon-container">
-                                <div class="side-button-text-icon-content"><img src="http://apsppieve.chebellagiornata.it/wp-content/uploads/2024/03/INFO.svg" alt="Info Icon"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <div class="side-button-outer carta-servizi" onclick="window.open(\'https://www.apsp-roncegno.it/document/pdf/carta-dei-servizi-roncegno-2019/p29e166d7503aaf5194827ab81089f23/\', \'_blank\')">
                     <div class="side-button-inner">
                         <div class="side-button-icon">
@@ -103,4 +87,4 @@ function sidebar_buttons_shortcode()
             </div>';
 }
 
-add_shortcode('sidebar_buttons', 'sidebar_buttons_shortcode');
+add_shortcode('strigno_sidebar', 'sidebar_buttons_shortcode');

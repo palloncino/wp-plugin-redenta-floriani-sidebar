@@ -68,15 +68,15 @@ function sidebar_buttons_shortcode()
                         </div>
                     </div>
                 </div>
-                <div class="side-button-outer prevenzione-corruzione" onclick="window.location.href=\'/prevenzione-della-corruzione\'">
+                <div class="side-button-outer anticorruzione-trasparenza" onclick="window.location.href=\'/anticorruzione-e-trasparenza\'">
                     <div class="side-button-inner">
                         <div class="side-button-icon">
                             <div class="animate-svg"><img src="http://apsppieve.chebellagiornata.it/wp-content/uploads/2024/03/MANINA.svg" alt="Cursor Icon"></div>
                         </div>
                         <div class="side-button-text">
                             <div class="side-button-text-text-container">
-                                <div class="side-button-text-text-first">Prevenzione della</div>
-                                <div class="side-button-text-text-second">Corruzione</div>
+                                <div class="side-button-text-text-first">Anticorruzione</div>
+                                <div class="side-button-text-text-second">e trasparenza</div>
                             </div>
                             <div class="side-button-text-icon-container">
                                 <div class="side-button-text-icon-content"><img src="http://apsppieve.chebellagiornata.it/wp-content/uploads/2024/03/BAN.svg" alt="Ban Icon"></div>

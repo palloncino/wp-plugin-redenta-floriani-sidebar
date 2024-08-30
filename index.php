@@ -20,7 +20,7 @@ function sidebar_buttons_shortcode()
 {
     // Output the specified HTML
     return '<div>
-                <div class="side-button-outer albo-online albo-pretorio" onclick="window.location.href=\'/albo-online\'">
+                <div class="side-button-outer albo-online albo-pretorio" onclick="window.location.href=\'https://alboapspfloriani.giscoservice.it\'">
                     <div class="side-button-inner">
                         <div class="side-button-icon">
                             <div class="animate-svg"><img src="http://apsppieve.chebellagiornata.it/wp-content/uploads/2024/03/MANINA.svg" alt="Cursor Icon"></div>
@@ -68,7 +68,23 @@ function sidebar_buttons_shortcode()
                         </div>
                     </div>
                 </div>
-                <div class="side-button-outer anticorruzione-trasparenza" onclick="window.location.href=\'/anticorruzione-e-trasparenza\'">
+                <div class="side-button-outer news">
+                    <div class="side-button-inner">
+                        <div class="side-button-icon">
+                            <div class="animate-svg"><img src="http://apsppieve.chebellagiornata.it/wp-content/uploads/2024/03/MANINA.svg" alt="Cursor Icon"></div>
+                        </div>
+                        <div class="side-button-text">
+                            <div class="side-button-text-text-container">
+                                <div class="side-button-text-text-first">News</div>
+                                <div class="side-button-text-text-second">& Articoli</div>
+                            </div>
+                            <div class="side-button-text-icon-container">
+                                <div class="side-button-text-icon-content"><img src="http://apspstrigno.chebellagiornata.it/wp-content/uploads/2024/08/POSTS.png" height="36px" alt="News Icon"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="side-button-outer anticorruzione-trasparenza">
                     <div class="side-button-inner">
                         <div class="side-button-icon">
                             <div class="animate-svg"><img src="http://apsppieve.chebellagiornata.it/wp-content/uploads/2024/03/MANINA.svg" alt="Cursor Icon"></div>

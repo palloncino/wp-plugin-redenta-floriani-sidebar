@@ -68,7 +68,7 @@ function sidebar_buttons_shortcode()
                         </div>
                     </div>
                 </div>
-                <div class="side-button-outer news">
+                <div class="side-button-outer news" onclick="#">
                     <div class="side-button-inner">
                         <div class="side-button-icon">
                             <div class="animate-svg"><img src="http://apsppieve.chebellagiornata.it/wp-content/uploads/2024/03/MANINA.svg" alt="Cursor Icon"></div>
@@ -79,7 +79,7 @@ function sidebar_buttons_shortcode()
                                 <div class="side-button-text-text-second">& Articoli</div>
                             </div>
                             <div class="side-button-text-icon-container">
-                                <div class="side-button-text-icon-content"><img src="http://apspstrigno.chebellagiornata.it/wp-content/uploads/2024/08/POSTS.png" height="36px" alt="News Icon"></div>
+                                <div class="side-button-text-icon-content"><img src="http://apspstrigno.chebellagiornata.it/wp-content/uploads/2024/08/POSTS.svg" style="height: 44px;" alt="News Icon"></div>
                             </div>
                         </div>
                     </div>

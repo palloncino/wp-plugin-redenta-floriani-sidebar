@@ -52,7 +52,7 @@ function sidebar_buttons_shortcode()
                         </div>
                     </div>
                 </div>
-                <div class="side-button-outer carta-servizi" onclick="window.open(\'https://www.apsp-roncegno.it/document/pdf/carta-dei-servizi-roncegno-2019/p29e166d7503aaf5194827ab81089f23/\', \'_blank\')">
+                <div class="side-button-outer carta-servizi" onclick="window.open(\'http://apspstrigno.chebellagiornata.it/wp-content/uploads/2024/06/CARTA-DEI-SERVIZI-2023-Approv.-del.-n.-32-dd.-14.6.23.pdf\', \'_blank\')">
                     <div class="side-button-inner">
                         <div class="side-button-icon">
                             <div class="animate-svg"><img src="http://apsppieve.chebellagiornata.it/wp-content/uploads/2024/03/MANINA.svg" alt="Cursor Icon"></div>
@@ -68,7 +68,7 @@ function sidebar_buttons_shortcode()
                         </div>
                     </div>
                 </div>
-                <div class="side-button-outer news" onclick="#">
+                <div class="side-button-outer news" onclick="window.location.href=\'/news\'">
                     <div class="side-button-inner">
                         <div class="side-button-icon">
                             <div class="animate-svg"><img src="http://apsppieve.chebellagiornata.it/wp-content/uploads/2024/03/MANINA.svg" alt="Cursor Icon"></div>

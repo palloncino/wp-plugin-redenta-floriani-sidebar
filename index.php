@@ -84,6 +84,22 @@ function sidebar_buttons_shortcode()
                         </div>
                     </div>
                 </div>
+                <div class="side-button-outer concorsi-dellente" onclick="window.location.href=\'https://apspstrigno.chebellagiornata.it/concorsi-dellente/\'">
+                    <div class="side-button-inner">
+                        <div class="side-button-icon">
+                            <div class="animate-svg"><img src="http://apsppieve.chebellagiornata.it/wp-content/uploads/2024/03/MANINA.svg" alt="Cursor Icon"></div>
+                        </div>
+                        <div class="side-button-text">
+                            <div class="side-button-text-text-container">
+                                <div class="side-button-text-text-first">Concorsi</div>
+                                <div class="side-button-text-text-second">dell\'ente</div>
+                            </div>
+                            <div class="side-button-text-icon-container">
+                                <div class="side-button-text-icon-content"><img src="http://apsppieve.chebellagiornata.it/wp-content/uploads/2024/03/BANK.svg" alt="Bank Icon"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div class="side-button-outer anticorruzione-trasparenza">
                     <div class="side-button-inner">
                         <div class="side-button-icon">
